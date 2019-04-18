@@ -6,7 +6,7 @@ And Blacklist Bypassing. And So On!!
 Thankyou for download this Script hope it work well :)
 
 # Supported OS:
-Linux and Windows
+Linux 
 # Pre requisites:
 #### •	Python 
 #### • No requests module needs to be installed.
