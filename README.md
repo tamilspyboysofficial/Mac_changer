@@ -19,11 +19,11 @@ git clone https://github.com/tamilspyboysofficial/Mac_changer
 ``` bash
 
 ```
-![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Mac_changer/master/1..png?raw=true " Step 1")
+![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Mac_changer/master/img/1..png?raw=true " Step 1")
 	 
-![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Mac_changer/master/2..png?raw=true " Step 2")
+![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Mac_changer/master/img/2..png?raw=true " Step 2")
 
-![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Mac_changer/master/3.png?raw=true " Step 3")
+![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Mac_changer/master/img/3.png?raw=true " Step 3")
 
 
 
