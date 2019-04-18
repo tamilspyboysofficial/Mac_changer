@@ -9,7 +9,7 @@ print("  | | (_| | | | | | | | \__ \ |_) | |_| | |_) | (_) | |_| |")
 print("  |_|\__,_|_| |_| |_|_|_|___/ .__/ \__, |_.__/ \___/ \__, |")
 print("                            |_|    |___/             |___/ ")
 
-print (" BY Lenin Royal :) \n")
+print (" BY TamilSpyboy :) \n")
 
 interface = raw_input("Enter your wlan interface > ")
 new_mac = raw_input("Enter the MAC that you want to change > ")
